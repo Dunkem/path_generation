@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duke/FAST_project_1/src/onboard_planner/path/newton_insert.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/duke/FAST_project_1/src/onboard_planner/path/newton_test.cpp
+vector
+-
+newton_insert.h
+/home/duke/FAST_project_1/src/onboard_planner/path/newton_insert.h
+

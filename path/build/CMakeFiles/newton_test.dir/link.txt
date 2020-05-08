@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/newton_test.dir/newton_insert.cpp.o CMakeFiles/newton_test.dir/newton_test.cpp.o  -o newton_test 
